@@ -19,7 +19,7 @@
         "url":  "http://github.com/gemstonejs/gemstone-config-tslint/issues"
     },
     "peerDependencies": {
-        "tslint":                         "5.9.1",
+        "tslint":                         "5.10.0",
         "typescript":                     "2.8.3"
     },
     "dependencies" : {
